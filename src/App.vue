@@ -2,6 +2,7 @@
   <div class="badass-todo">
     <div class="title has-text-centered">
       Badass Todo
+      <h1> Io sono una prova di pipeline</h1>
     </div>
       
     <form
@@ -158,7 +159,7 @@ const toggleDone = id => {
 </script>
 
 <style> 
-@import '../../node_modules/bulma/css/bulma.min.css';
+@import 'vue3-firebase9-tutorial\node_modules\bulma\css';
 
 .badass-todo{
   max-width:400px;
