@@ -3,7 +3,7 @@
     <div class="title has-text-centered">
       Badass Todo
     </div>
-
+      <h1> Io sono una prova di pipeline</h1>
     <form
       @submit.prevent="addTodo"
     >
