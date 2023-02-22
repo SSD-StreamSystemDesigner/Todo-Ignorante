@@ -158,7 +158,7 @@ const toggleDone = id => {
 </script>
 
 <style> 
-@import 'vue3-firebase9-tutorial\node_modules\bulma\css';
+@import '../../node_modules/bulma/css/bulma.min.css';
 
 .badass-todo{
   max-width:400px;
